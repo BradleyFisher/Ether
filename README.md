@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Welcome To Ether
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been created by me for the following reasons:
 
-## Available Scripts
+- To challenge myself in learning React & Redux.
+- To create a portfolio to demonstrate my work.
+- To allow ignite my creativity in creating a fresh design & seeing where my knowledge takes me.
 
-In the project directory, you can run:
+As I have only used Angular as a framework within my business environment, I wanted to enhance my FrontEnd skills by learning React.
+
+## How to run this project
 
 ### `npm start`
 

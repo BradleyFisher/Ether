@@ -1,0 +1,8 @@
+@import '../styles/dark-theme';
+@import '../styles/fonts';
+
+body {
+  background-color: var(--bg-color);
+  font-family: 'Outfit', sans-serif;
+  color: var(--font-color);
+}
